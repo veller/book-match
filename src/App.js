@@ -30,7 +30,6 @@ function App() {
 export default App;
 
 //to do
-
 //Geral: organização dos arquivos na pasta components
 //Geral: não é mobile-friendly
 //Arquitetura: componente genérico para exibição de rankings que recebe dados via props e decide o que renderizar
